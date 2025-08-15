@@ -2,7 +2,7 @@
 
 Reproducible SAS workflow and outputs for the analysis supporting:
 
-> **Evaluating the Impact of a Workplace Wellness Program in Saudi Arabia: An Intra‑Department Study._ Journal of Occupational and Environmental Medicine.**
+> **Evaluating the Impact of a Workplace Wellness Program in Saudi Arabia: An Intra‑Department Study (Journal of Occupational and Environmental Medicine, 2019)**
 
 ## 📌 Reference
 
