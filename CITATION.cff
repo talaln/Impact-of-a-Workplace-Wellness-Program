@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or repository, please cite it as below."
+title: "Impact of a Workplace Wellness Program"
+authors:
+  - family-names: "Naseem"
+    given-names: "Mohammad Talal"
+    email: "talal_naseem@hotmail.com"
+date-released: 2019-09-01
+version: "1.0.0"
+repository-code: "https://github.com/talaln/Impact-of-a-Workplace-Wellness-Program.git"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Altwaijri"
+      given-names: "Yasmin"
+    - family-names: "Hyder"
+      given-names: "Sanaa"
+    - family-names: "Bilal"
+      given-names: "Lisa"
+    - family-names: "Naseem"
+      given-names: "Mohammad Talal"
+    - family-names: "AlSaqabi"
+      given-names: "Dimah"
+    - family-names: "AlSuwailem"
+      given-names: "Fatima"
+    - family-names: "Aradati"
+      given-names: "Maggie"
+    - family-names: "DeVol"
+      given-names: "Edward"
+  title: "Evaluating the Impact of a Workplace Wellness Program in Saudi Arabia: An Intra-Department Study"
+  journal: "Journal of Occupational and Environmental Medicine"
+  volume: "61"
+  number: "9"
+  start: "760"
+  end: "766"
+  year: "2019"
+  doi: "10.1097/JOM.0000000000001656"

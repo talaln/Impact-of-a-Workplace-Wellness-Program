@@ -1,0 +1,15 @@
+# SAS and temp files
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+*.sas7bvew
+*.egp
+work/
+.sasuser.v94/
+.sasstudio/
+.DS_Store
+Thumbs.db
+
+# Allow RTF results in results/
+!results/*.rtf
